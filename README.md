@@ -1,2 +1,2 @@
-# SnowNokken.github.io
-Website for Coursera Course
+# Ambleside.github.io
+Ambleside proyect
